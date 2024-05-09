@@ -1,5 +1,5 @@
 # j02052024
-Repositório da Turma de Java 2
+Repositório da Turma de Java 2 - Turma de Maio
 
 # Ferramentas Necessárias
 
